@@ -8,5 +8,5 @@ rust:
 
 script:
   - cargo update
-  - cargo build -p diwata_server --release
+  - cargo build
   - cargo test --all-features

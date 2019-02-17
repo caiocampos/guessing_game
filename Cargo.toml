@@ -5,4 +5,4 @@ authors = ["Caio O Campos <caio.campos1204@gmail.com.br>"]
 edition = "2018"
 
 [dependencies]
-rand = "0.6.2"
+rand = "*"
